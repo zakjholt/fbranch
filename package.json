@@ -1,0 +1,21 @@
+{
+  "name": "fbranch",
+  "version": "1.0.0",
+  "description": "Helper to quickly switch to a git branch",
+  "main": "./lib/main.js",
+  "bin": {
+    "fbranch": "./bin/main.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fuzzy-search": "^3.0.1",
+    "prompts": "^2.0.3",
+    "simple-git": "^1.107.0"
+  }
+}
