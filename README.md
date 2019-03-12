@@ -1,22 +1,8 @@
-<style>
-    img[src*="#logo"] {
-        width:150px;
-        height:100px;
-    }
-
-    img[src*="#gif"] {
-        width:300px;
-        margin: 0 auto
-    }
-</style>
-
-## fbranch
-
-![](logo.png#logo)
+## fbranch 🌱
 
 This is a cli tool to quickly switch between git branches
 
-![](fbranch.gif#gif)
+![](fbranch.gif)
 
 ## Install
 
