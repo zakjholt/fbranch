@@ -2,6 +2,8 @@
 
 This is a cli tool to quickly switch between git branches
 
+![](fbranch.gif)
+
 ## Install
 
 ```sh
