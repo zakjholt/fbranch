@@ -1,6 +1,6 @@
 {
   "name": "fbranch",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Helper to quickly switch to a git branch",
   "main": "./lib/main.js",
   "bin": {
