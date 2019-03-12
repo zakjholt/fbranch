@@ -20,6 +20,11 @@ fbranch <query>
 
 To search and checkout interactively
 
-```
+```sh
+fbranch
+
+# or
+
 fbranch -i
+
 ```
